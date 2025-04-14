@@ -19,11 +19,7 @@ To harness blockchain technology to bring **hope** to the hopeless, by enabling 
 ## Donation Wallet Address
 
 **BNB Smart Chain (BSC):**  
-`0x9F266376b8C65Bbf6e9435b740156e45e2794A80`
-
-## Website
-
-[https://yambtoken.github.io/HopeToken/](https://yambtoken.github.io/HopeToken/)
+`0x9F266376b8C65Bbf6e9435b740156e45e2794A80
 
 ---
 
