@@ -1,4 +1,4 @@
-# Yamb# HopeToken (YAMBA)
+# Yamb# HopeToken (YAMB)
 
 **Empowering Anonymous Giving through Blockchain**
 
