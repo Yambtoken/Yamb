@@ -90,7 +90,7 @@
   </section>  <section id="gallery">
   <h2>Gallery</h2>
   <img src="images/child-snack.jpg" alt="Child with food in a rural setting" class="gallery-image" />
-  <img src="images/children-field.jpg" alt="Children standing in a field with hills" class="gallery-image" />
+  <img src="help3.jpg" alt="Children standing in a field with hills" class="gallery-image" />
 </section>
   </section>  <section id="contact">
     <h2>Connect With Us</h2>
