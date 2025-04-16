@@ -1,4 +1,3 @@
-file_00000000cd88620ab08698cae396d07a_conversation_id=67efe9bc-e374-8008-8025-7fd99ff4f6ee&message_id=f47485a1-8284-4180-81c3-e90169cbf7c0 (1).PNG
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -71,7 +70,7 @@ file_00000000cd88620ab08698cae396d07a_conversation_id=67efe9bc-e374-8008-8025-7f
     <section id="story">
   <h2>Why I Created HopeToken (YAMB)</h2>
   <p>This project was inspired by real experiences...</p>
-  <img src="images/child-snack.jpg" alt="Child holding food in Uganda" class="story-image" />
+  <img src="IMG-yamb. food .jpg" alt="Child holding food in Uganda" class="story-image" />
   <img src="IMG-yamb.ug.jpg" alt="Children in a rural field" class="story-image" />
 </section>
     <h2>Why I Created HopeToken (YAMB)</h2>
