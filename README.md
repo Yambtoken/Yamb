@@ -59,14 +59,20 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
-  </header>  <section id="hero">
-    <img src="img1.jpg" alt="HopeToken Banner" class="hero-image" />
-    <h2>Give Hope. Change Lives. One Token at a Time.</h2>
-  </section>  <section id="about">
+  </header>  <<section id="hero">
+  <img src="images/child-snack.jpg" alt="HopeToken Banner with a child" class="hero-image" />
+  <h2>Give Hope. Change Lives. One Token at a Time.</h2>
+<section id="about">
     <h2>About HopeToken</h2>
     <p>HopeToken (YAMB) is a cryptocurrency built to connect generous donors with the most vulnerable people around the world. Powered by blockchain transparency and fueled by real-life compassion, HopeToken exists to restore hope to those affected by war, disaster, illness, and extreme poverty.</p>
     <p>Contract Address: <code>0x9F266376b8C65Bbf6e9435b740156e45e2794A80</code></p>
   </section>  <section id="story">
+    <section id="story">
+  <h2>Why I Created HopeToken (YAMB)</h2>
+  <p>This project was inspired by real experiences...</p>
+  <img src="images/child-snack.jpg" alt="Child holding food in Uganda" class="story-image" />
+  <img src="images/children-field.jpg" alt="Children in a rural field" class="story-image" />
+</section>
     <h2>Why I Created HopeToken (YAMB)</h2>
     <p><strong>Hope</strong> is what keeps many of us going every single day. In the world of crypto, someone might invest $10,000 and lose $9,900 — yet still hold on to the remaining $100, believing that one day it could grow to $100,000. That’s the power of hope. True traders and investors never lose hope, no matter the circumstances.</p>
     <p>But there are challenges in life far beyond charts and markets. Natural disasters, wars, disease, poverty, and displacement strip people of everything — their homes, their jobs, and sometimes even their families. When people lose everything, they lose more than material possessions — they lose hope. That’s where <strong>HopeToken</strong> comes in.</p>
@@ -82,10 +88,10 @@
     <p><strong>Donation Wallet Address:</strong> <code>0x8286823386bc1d10B2C0F9b73ECe5e0D154054ED</code></p>
     <a href="https://bscscan.com/address/0x8286823386bc1d10B2C0F9b73ECe5e0D154054ED" class="donate-button">Donate Now</a>
   </section>  <section id="gallery">
-    <h2>Gallery</h2>
-    <img src="img1.jpg" alt="Helping children in Uganda" class="gallery-image" />
-    <img src="img2.jpg" alt="Donating food in Dhaka" class="gallery-image" />
-    <img src="img3.jpg" alt="Giving hope worldwide" class="gallery-image" />
+  <h2>Gallery</h2>
+  <img src="images/child-snack.jpg" alt="Child with food in a rural setting" class="gallery-image" />
+  <img src="images/children-field.jpg" alt="Children standing in a field with hills" class="gallery-image" />
+</section>
   </section>  <section id="contact">
     <h2>Connect With Us</h2>
     <p>Follow us on X (Twitter): <a href="https://twitter.com/YambToken" target="_blank">@YambToken</a></p>
