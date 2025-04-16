@@ -60,7 +60,7 @@
       </ul>
     </nav>
   </header>  <<section id="hero">
-  <img src="images/child-snack.jpg" alt="HopeToken Banner with a child" class="hero-image" />
+  <img src="Banner .PNG" alt="HopeToken Banner with a child" class="hero-image" />
   <h2>Give Hope. Change Lives. One Token at a Time.</h2>
 <section id="about">
     <h2>About HopeToken</h2>
