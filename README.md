@@ -71,7 +71,7 @@
   <h2>Why I Created HopeToken (YAMB)</h2>
   <p>This project was inspired by real experiences...</p>
   <img src="images/child-snack.jpg" alt="Child holding food in Uganda" class="story-image" />
-  <img src="images/children-field.jpg" alt="Children in a rural field" class="story-image" />
+  <img src="IMG-yamb.ug.jpg" alt="Children in a rural field" class="story-image" />
 </section>
     <h2>Why I Created HopeToken (YAMB)</h2>
     <p><strong>Hope</strong> is what keeps many of us going every single day. In the world of crypto, someone might invest $10,000 and lose $9,900 — yet still hold on to the remaining $100, believing that one day it could grow to $100,000. That’s the power of hope. True traders and investors never lose hope, no matter the circumstances.</p>
