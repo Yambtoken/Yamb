@@ -150,11 +150,15 @@
   </section>
 
   <section id="contact">
-    <div class="container">
-      <h2>Connect With Us</h2>
-      <p>Follow us on X (Twitter): <a href="https://twitter.com/YambToken" target="_blank">@YambToken</a></p>
-    </div>
-    <p>Join our Telegram: <a href="https://t.me/hopeyamb" target="_blank">t.me/hopeyamb</a></p>
+  <h2>Connect With Us</h2>
+  <p>
+    <i class="fab fa-x-twitter"></i> 
+    <a href="https://twitter.com/YambToken" target="_blank">@YambToken</a>
+  </p>
+  <p>
+    <i class="fab fa-telegram"></i> 
+    <a href="https://t.me/hopeyamb" target="_blank">t.me/hopeyamb</a>
+  </p>
 </section>
   
       <section id="faq">
