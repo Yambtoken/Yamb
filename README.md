@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>HopeToken (YAMB)</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
   <style>
     body {
       margin: 0;
@@ -69,6 +70,19 @@
       margin: 2rem auto;
       max-width: 900px;
     }
+    #contact i {
+    margin-right: 8px;
+    color: #009688;
+  }
+
+  #contact a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  #contact a:hover {
+    text-decoration: underline;
+  }
   </style>
 </head>
 <body>
