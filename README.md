@@ -135,7 +135,7 @@
   <section id="donate" style="text-align: center; padding: 20px;">
   <h2>Support Our Cause</h2>
   <p>Scan this QR code to donate using your crypto wallet:</p>
-  <img src="wallet-qr.png" alt="YAMB Wallet QR Code" style="max-width: 200px; margin-bottom: 10px;" />
+  <img src="mmetaMask.jpg" alt="YAMB Wallet QR Code" style="max-width: 200px; margin-bottom: 10px;" />
   <p><strong>Wallet Address:</strong><br>
   <code>0xYourWalletAddressHere</code></p>
 
