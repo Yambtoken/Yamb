@@ -140,7 +140,7 @@
   <p><strong>Wallet Address:</strong><br>
   <code>0x8286823386bc1d10B2C0F9b73ECe5e0D154054ED</code></p>
 
-  <a href="https://bscscan.com/address/0x8286823386bc1d10B2C0F9b73ECe5e0D154054ED" target="_blank" style="
+  <a href="https://bscscan.com/address/0x8286823386bc1d10b2c0f9b73ece5e0d154054ed" target="_blank" style="
     display: inline-block;
     padding: 12px 24px;
     margin-top: 10px;
