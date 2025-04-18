@@ -138,6 +138,33 @@
   <section id="contact">
     <div class="container">
       <h2>Connect With Us</h2>
+      <section id="faq">
+  <h2>Frequently Asked Questions (FAQ)</h2>
+
+  <h3>What is HopeToken (YAMB)?</h3>
+  <p>HopeToken (YAMB) is a cryptocurrency created to support people affected by war, natural disasters, illness, and extreme poverty. It connects donors with real needs around the world.</p>
+
+  <h3>How does YAMB work?</h3>
+  <p>YAMB runs on the BNB Smart Chain (BSC), allowing fast and low-cost transactions. People can send donations directly to verified wallet addresses, and the funds are used for urgent humanitarian needs.</p>
+
+  <h3>Is HopeToken a nonprofit?</h3>
+  <p>Yes, YAMB is a nonprofit initiative. It was created not for profit or personal gain, but to help those who are truly suffering. Every donation goes directly to support the cause.</p>
+
+  <h3>How can I donate?</h3>
+  <p>You can donate directly using the wallet address listed on our site. No need to connect your wallet — just copy the address and send from your crypto wallet.</p>
+
+  <h3>What is the contract address?</h3>
+  <p>Our verified contract address on BSC is:<br><code>0x9F266376b8C65Bbf6e9435b740156e45e2794A80</code></p>
+
+  <h3>Where can I buy YAMB?</h3>
+  <p>YAMB is currently available on PancakeSwap. You can swap BNB for YAMB using our contract address.</p>
+
+  <h3>How do I know donations are used correctly?</h3>
+  <p>We believe in transparency. Major donations and impact updates are shared on our site and social channels. We are building a global network of trusted agents who report directly to us.</p>
+
+  <h3>Can I help in other ways?</h3>
+  <p>Yes! You can spread the word, join our volunteer team, or even help with translation and outreach in your country. Reach out through the contact section.</p>
+</section>
       <p>Follow us on X (Twitter): <a href="https://twitter.com/YambToken" target="_blank">@YambToken</a></p>
     </div>
   </section>
