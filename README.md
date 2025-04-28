@@ -154,7 +154,7 @@
       </ul>
 
       <div style="text-align: center; margin: 20px 0;">
-        <img src="images/sleeping-area.jpg" alt="Sleeping conditions" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
+        <img src="bedbunyonyi.jpg" alt="Sleeping conditions" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
         <img src="images/children-community.jpg" alt="Children in community" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
         <img src="images/poor-school.jpg" alt="Poor school building" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px;">
       </div>
