@@ -143,14 +143,14 @@
         All families have no proper shelter, sleep directly on the ground, and wear torn clothes. Children have no access to education and basic necessities.
       </p>
       <p>
-        Through our <strong>HopeToken</strong> project, we aim to make a real difference by providing:
+       Let's help This community through our <strong>HopeToken</strong> project, by providing:
       </p>
       <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 30px;">
         <li>Proper shelter</li>
         <li>Clothing and shoes</li>
         <li>Basic healthcare</li>
         <li>Access to quality education</li>
-        <li>Nutritious meals</li>
+        <li>Other basics</li>
       </ul>
 
       <div style="text-align: center; margin: 20px 0;">
