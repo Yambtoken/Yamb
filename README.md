@@ -167,6 +167,19 @@
     <img src="Yambawalet.jpg" alt="YAMB Wallet QR Code" style="max-width: 200px; margin-bottom: 10px;" />
     <p><strong>Wallet Address:</strong><br>
     <code style="word-break: break-all;">0x8286823386bc1d10B2C0F9b73ECe5e0D154054ED</code></p>
+    <a href="https://bscscan.com/address/0x8286823386bc1d10b2c0f9b73ece5e0d154054ed" target="_blank" style="
+    display: inline-block;
+    padding: 12px 24px;
+    margin-top: 10px;
+    background-color: #009688;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+  ">
+    Donate Now
+  </a>
+</section>
   </section>
 
 </section>
