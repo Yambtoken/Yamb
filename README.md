@@ -156,7 +156,7 @@
       <div style="text-align: center; margin: 20px 0;">
         <img src="images/bedbunyonyi.jpg" alt="Sleeping conditions" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
         <img src="images/bunyonyikids.jpg" alt="Children in community" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
-        <img src="images/poor-school.jpg" alt="Poor school building" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px;">
+        <img src="images/bunyonyischool.jpg" alt="Poor school building" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px;">
       </div>
     </div>
   </section>
