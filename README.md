@@ -154,9 +154,9 @@
       </ul>
 
       <div style="text-align: center; margin: 20px 0;">
-      h3>Where They Sleep</h3>
+      h1>Where They Sleep</h1>
         <img src="bedbunyonyi.jpg" alt="Sleeping conditions" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
-        h3>Children of the Community</h3>
+        h2>Children of the Community</h2>
         <img src="bunyonyikids.jpg" alt="Children in community" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px; margin-bottom: 20px;">
          <h3>The School Building</h3>
         <img src="bunyonyischool.jpg" alt="Poor school building" class="story-image" style="width: 90%; max-width: 500px; border-radius: 12px;">
